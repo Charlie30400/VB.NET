@@ -1,0 +1,12 @@
+C:\Users\Carlos's PC\Downloads\OPP\1Lucky_7\1Lucky_7\obj\Debug\1Lucky_7.vbprojAssemblyReference.cache
+C:\Users\Carlos's PC\Downloads\OPP\1Lucky_7\1Lucky_7\obj\Debug\_1Lucky_7.Resources.resources
+C:\Users\Carlos's PC\Downloads\OPP\1Lucky_7\1Lucky_7\obj\Debug\1Lucky_7.vbproj.GenerateResource.cache
+C:\Users\Carlos's PC\Downloads\OPP\1Lucky_7\1Lucky_7\bin\Debug\1Lucky_7.exe.config
+C:\Users\Carlos's PC\Downloads\OPP\1Lucky_7\1Lucky_7\bin\Debug\1Lucky_7.exe
+C:\Users\Carlos's PC\Downloads\OPP\1Lucky_7\1Lucky_7\bin\Debug\1Lucky_7.pdb
+C:\Users\Carlos's PC\Downloads\OPP\1Lucky_7\1Lucky_7\bin\Debug\1Lucky_7.xml
+C:\Users\Carlos's PC\Downloads\OPP\1Lucky_7\1Lucky_7\obj\Debug\1Lucky_7.exe
+C:\Users\Carlos's PC\Downloads\OPP\1Lucky_7\1Lucky_7\obj\Debug\1Lucky_7.xml
+C:\Users\Carlos's PC\Downloads\OPP\1Lucky_7\1Lucky_7\obj\Debug\1Lucky_7.pdb
+C:\Users\Carlos's PC\Downloads\OPP\1Lucky_7\1Lucky_7\obj\Debug\_1Lucky_7.Lucky7.resources
+C:\Users\Carlos's PC\Downloads\OPP\1Lucky_7\1Lucky_7\obj\Debug\1Lucky_7.vbproj.CoreCompileInputs.cache

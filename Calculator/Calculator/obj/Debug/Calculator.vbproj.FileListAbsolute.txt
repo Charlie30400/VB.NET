@@ -1,0 +1,11 @@
+C:\Users\Carlos's PC\Downloads\OPP\Calculator\Calculator\obj\Debug\Calculator.vbprojAssemblyReference.cache
+C:\Users\Carlos's PC\Downloads\OPP\Calculator\Calculator\obj\Debug\Calculator.frm_cal.resources
+C:\Users\Carlos's PC\Downloads\OPP\Calculator\Calculator\obj\Debug\Calculator.Resources.resources
+C:\Users\Carlos's PC\Downloads\OPP\Calculator\Calculator\obj\Debug\Calculator.vbproj.GenerateResource.cache
+C:\Users\Carlos's PC\Downloads\OPP\Calculator\Calculator\bin\Debug\Calculator.exe.config
+C:\Users\Carlos's PC\Downloads\OPP\Calculator\Calculator\bin\Debug\Calculator.exe
+C:\Users\Carlos's PC\Downloads\OPP\Calculator\Calculator\bin\Debug\Calculator.pdb
+C:\Users\Carlos's PC\Downloads\OPP\Calculator\Calculator\bin\Debug\Calculator.xml
+C:\Users\Carlos's PC\Downloads\OPP\Calculator\Calculator\obj\Debug\Calculator.exe
+C:\Users\Carlos's PC\Downloads\OPP\Calculator\Calculator\obj\Debug\Calculator.xml
+C:\Users\Carlos's PC\Downloads\OPP\Calculator\Calculator\obj\Debug\Calculator.pdb

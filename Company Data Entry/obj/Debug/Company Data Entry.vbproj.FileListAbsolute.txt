@@ -1,0 +1,15 @@
+C:\Users\Carlos's PC\Downloads\OPP\Company Data Entry\bin\Debug\Company Data Entry.exe.config
+C:\Users\Carlos's PC\Downloads\OPP\Company Data Entry\bin\Debug\Company Data Entry.exe
+C:\Users\Carlos's PC\Downloads\OPP\Company Data Entry\bin\Debug\Company Data Entry.pdb
+C:\Users\Carlos's PC\Downloads\OPP\Company Data Entry\bin\Debug\Company Data Entry.xml
+C:\Users\Carlos's PC\Downloads\OPP\Company Data Entry\obj\Debug\Company Data Entry.vbprojAssemblyReference.cache
+C:\Users\Carlos's PC\Downloads\OPP\Company Data Entry\obj\Debug\Company_Data_Entry.Resources.resources
+C:\Users\Carlos's PC\Downloads\OPP\Company Data Entry\obj\Debug\Company Data Entry.vbproj.GenerateResource.cache
+C:\Users\Carlos's PC\Downloads\OPP\Company Data Entry\obj\Debug\Company Data Entry.exe
+C:\Users\Carlos's PC\Downloads\OPP\Company Data Entry\obj\Debug\Company Data Entry.xml
+C:\Users\Carlos's PC\Downloads\OPP\Company Data Entry\obj\Debug\Company Data Entry.pdb
+C:\Users\Carlos's PC\Downloads\OPP\Company Data Entry\obj\Debug\Company_Data_Entry.frmCompanyDataEntry.resources
+C:\Users\Carlos's PC\Downloads\OPP\Company Data Entry\obj\Debug\Company_Data_Entry.frmEmployee.resources
+C:\Users\Carlos's PC\Downloads\OPP\Company Data Entry\obj\Debug\Company_Data_Entry.frmLogin.resources
+C:\Users\Carlos's PC\Downloads\OPP\Company Data Entry\obj\Debug\Company_Data_Entry.frmMenu.resources
+C:\Users\Carlos's PC\Downloads\OPP\Company Data Entry\obj\Debug\Company Data Entry.vbproj.CoreCompileInputs.cache

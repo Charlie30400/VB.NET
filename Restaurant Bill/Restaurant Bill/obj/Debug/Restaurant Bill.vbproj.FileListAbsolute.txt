@@ -1,0 +1,11 @@
+C:\Users\Carlos's PC\Downloads\OPP\Restaurant Bill\Restaurant Bill\obj\Debug\Restaurant Bill.vbprojAssemblyReference.cache
+C:\Users\Carlos's PC\Downloads\OPP\Restaurant Bill\Restaurant Bill\obj\Debug\Restaurant_Bill.Resources.resources
+C:\Users\Carlos's PC\Downloads\OPP\Restaurant Bill\Restaurant Bill\obj\Debug\Restaurant Bill.vbproj.GenerateResource.cache
+C:\Users\Carlos's PC\Downloads\OPP\Restaurant Bill\Restaurant Bill\bin\Debug\Restaurant Bill.exe.config
+C:\Users\Carlos's PC\Downloads\OPP\Restaurant Bill\Restaurant Bill\bin\Debug\Restaurant Bill.exe
+C:\Users\Carlos's PC\Downloads\OPP\Restaurant Bill\Restaurant Bill\bin\Debug\Restaurant Bill.pdb
+C:\Users\Carlos's PC\Downloads\OPP\Restaurant Bill\Restaurant Bill\bin\Debug\Restaurant Bill.xml
+C:\Users\Carlos's PC\Downloads\OPP\Restaurant Bill\Restaurant Bill\obj\Debug\Restaurant Bill.exe
+C:\Users\Carlos's PC\Downloads\OPP\Restaurant Bill\Restaurant Bill\obj\Debug\Restaurant Bill.xml
+C:\Users\Carlos's PC\Downloads\OPP\Restaurant Bill\Restaurant Bill\obj\Debug\Restaurant Bill.pdb
+C:\Users\Carlos's PC\Downloads\OPP\Restaurant Bill\Restaurant Bill\obj\Debug\Restaurant_Bill.frm_Restaurant.resources

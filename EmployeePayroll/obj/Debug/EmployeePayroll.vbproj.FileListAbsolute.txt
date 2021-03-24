@@ -1,0 +1,12 @@
+C:\Users\Carlos's PC\Documents\VB.NET\EmployeePayroll\bin\Debug\EmployeePayroll.exe.config
+C:\Users\Carlos's PC\Documents\VB.NET\EmployeePayroll\bin\Debug\EmployeePayroll.exe
+C:\Users\Carlos's PC\Documents\VB.NET\EmployeePayroll\bin\Debug\EmployeePayroll.pdb
+C:\Users\Carlos's PC\Documents\VB.NET\EmployeePayroll\bin\Debug\EmployeePayroll.xml
+C:\Users\Carlos's PC\Documents\VB.NET\EmployeePayroll\obj\Debug\EmployeePayroll.vbprojAssemblyReference.cache
+C:\Users\Carlos's PC\Documents\VB.NET\EmployeePayroll\obj\Debug\EmployeePayroll.frmWeekendPayrollCalculater.resources
+C:\Users\Carlos's PC\Documents\VB.NET\EmployeePayroll\obj\Debug\EmployeePayroll.Resources.resources
+C:\Users\Carlos's PC\Documents\VB.NET\EmployeePayroll\obj\Debug\EmployeePayroll.vbproj.GenerateResource.cache
+C:\Users\Carlos's PC\Documents\VB.NET\EmployeePayroll\obj\Debug\EmployeePayroll.vbproj.CoreCompileInputs.cache
+C:\Users\Carlos's PC\Documents\VB.NET\EmployeePayroll\obj\Debug\EmployeePayroll.exe
+C:\Users\Carlos's PC\Documents\VB.NET\EmployeePayroll\obj\Debug\EmployeePayroll.xml
+C:\Users\Carlos's PC\Documents\VB.NET\EmployeePayroll\obj\Debug\EmployeePayroll.pdb
